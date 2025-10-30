@@ -1,0 +1,12 @@
+# umum
+.DS_Store
+Thumbs.db
+
+# php/laravel (buat nanti)
+vendor/
+node_modules/
+.env
+/public/storage
+/storage/*.key
+/.phpunit.result.cache
+.php-cs-fixer.cache
